@@ -1,0 +1,14 @@
+Cache L1
+Cache size 384 KB
+Line size 64 bytes
+
+Cache L2
+Cache size 2048 KB
+Line size 64 bytes
+
+Cache L3
+Cache size 4096 KB
+Line size 64 bytes
+
+RAM 14252 MB 
+
